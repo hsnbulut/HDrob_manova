@@ -1,0 +1,7 @@
+"scenario","method","ok","statistic","p_value","error"
+"Before contamination","Schott",TRUE,-2.61302831992781,0.77034018883714,NA
+"Before contamination","Cheng",TRUE,3.73988318458515,0.306,NA
+"Before contamination","Proposed MRCD",TRUE,0.0402599957342888,0.958,NA
+"After contamination","Schott",TRUE,942.476748547405,0,NA
+"After contamination","Cheng",TRUE,5.56174170754739,0.004,NA
+"After contamination","Proposed MRCD",TRUE,0.0333316529096478,0.134,NA

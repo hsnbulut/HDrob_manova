@@ -1,0 +1,4 @@
+method,mean_size,mean_abs_dev,max_abs_dev
+Proposed,0.04365,0.00795,0.022
+Schott,0.060675,0.011025,0.031
+Cheng,0.0435,0.00775,0.019

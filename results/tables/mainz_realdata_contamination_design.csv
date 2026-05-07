@@ -1,0 +1,2 @@
+"dataset","data_object","base_grade_group","n_per_group","p_selected","pseudo_group_seed","contaminated_groups","unchanged_group","contaminated_observations_per_group","contaminated_variables","shift_G1","shift_G2","eta_mrcd","B_boot_cheng","B_perm_mrcd"
+"breastCancerMAINZ","mainz","2",40,300,2026,"G1 and G2","G3",12,120,5,-5,0.75,499,499
